@@ -8,7 +8,7 @@
 #+REVEAL_SLIDE_FOOTER: Broomfield MSE Vascular Unit
 #+REVEAL_EXTRA_CSS: ./local.css
 #+REVEAL_INIT_OPTIONS: slideNumber:true
-#+REVEAL_DEFAULT_SLIDE_BACKGROUND: ./Images_ARU_Vascular1/Hoppman.jpeg
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND: Images_ARU_Vascular1/Hoppman.jpeg
 #+REVEAL_DEFAULT_SLIDE_BACKGROUND_OPACITY:0.2
 :END:
 
