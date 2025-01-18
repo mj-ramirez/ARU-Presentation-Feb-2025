@@ -1,0 +1,121 @@
+:REVEAL_PROPERTIES:
+#+OPTIONS: reveal_embed_local_resources:t
+#+OPTIONS: reveal_width:1400 reveal_height:800
+#+OPTIONS: num:nil toc:nil author:nil timestamp:nil
+#+REVEAL_INIT_OPTIONS: margin: 0.01, minScale:0.2, maxScale:2.5, transition:'convex'
+#+REVEAL_THEME: Sky
+#+REVEAL_TITLE_SLIDE:
+#+REVEAL_SLIDE_FOOTER: Broomfield MSE Vascular Unit
+#+REVEAL_EXTRA_CSS: ./local.css
+#+REVEAL_INIT_OPTIONS: slideNumber:true
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND: Images_ARU_Vascular1/Hoppman.jpeg
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND_OPACITY:0.2
+:END:
+
+#+attr_html: :width 15% :align right
+file:.//Images_ARU_Vascular1/NHS.png
+
+#+attr_html: :width 12% :align left
+file:.//Images_ARU_Vascular1/MSEVasc.png
+
+#+Author: Manfred Junemann Ramirez
+#+Email: manfred.ramirez@nhs.net
+
+* Introduction to Vascular Surgery for Medical Students
+@@html:<center>@@
+Manfred Junemann Ramirez[fn:vasc:Mid & South Essex Hospital Trust
+Vascular Unit]\\
+Consultant Vascular Surgeon\\
+February 2025
+** Vascular Surgery Learning Objectives
+Vascular surgery is a specialized field focusing on diseases of the vascular system, which includes arteries, veins, and lymphatic circulation.
+#+ATTR_REVEAL: :frag (fade-left)
+ - Anatomy & Physiology
+ - Pathophysiology
+ - Diagnostic Evaluation
+ - Surgical Interventions
+* The Arterial System
+#+ATTR_HTML: :width 38%
+@@html:<center>@@
+[[./Images_ARU_vascular1/Arterial_tree_body.jpg]]
+
+#+REVEAL: split
+#+ATTR_REVEAL: :frag (fade-left)
+- Carotid Arteries
+- Abdominal Aorta
+- Peripheral Arteries
+** Pathophysiology
+#+ATTR_REVEAL: :frag (fade-left)
+- Not enough blood = Occlusive Arterial Disease
+- Too much blood = Aneurysmal (Ruptured) Arterial Disease
+** Diagnostic Evaluation
+#+ATTR_REVEAL: :frag (fade-left)
+- Clinical History & Examination
+- Imaging Techniques
+** Surgical Intervention
+#+ATTR_REVEAL: :frag (fade-left)
+- Open Surgical Approaches
+- Endovascular techniques
+* The Carotid Arteries
+#+ATTR_HTML: :width 40%
+@@html:<center>@@
+[[./Images_ARU_vascular1/Carotid_Gen.jpeg]]
+** Surgical Anatomy I
+#+Caption: Carotid artery with overlying cranial nerves. Mandibular branch N VII, Hypoglossus N XII, Vagus N X and Ansa Cervicalis (branches of cervical spinal nerves C1-C3).
+#+ATTR_HTML: :width 45% :align left
+[[./Images_ARU_Vascular1/Carotid_artery_CN.png]]
+** Surgical Anatomy II
+#+Caption: Carotid artery with overlying cranial nerves. Hypoglossus NXII and Ansa Cervicalis.
+#+ATTR_HTML: :width 45% :align left
+[[./Images_ARU_Vascular1/Carotid_artery_CN2.png]]
+
+* Peripheral Vascular Disease
+#+ATTR_HTML: :width 40%
+@@html:<center>@@
+[[./Images_ARU_Vascular1/Dry_Gangraen1.jpg]]
+
+** Diagnostic Evaluation
+
+* Aortic Disease
+** Imaging of the Aorta I
+@@html:<center><video controls width="1200" height=auto src="./Images_ARU_vascular1/AorticClip1.mp4"></video>@@
+* Anaesthesia
+ :PROPERTIES:
+ :reveal_background: Images_ARU_Vascular1/anaesthesia.jpg
+ :reveal_background_trans: fade
+ :reveal_background_opacity: 0.2
+ :END:
+** General Considerations
+ :PROPERTIES:
+ :reveal_background: Images_ARU_Vascular1/anaesthesia.jpg
+ :reveal_background_trans: fade
+ :reveal_background_opacity: 0.2
+ :END:
+
+#+Caption: Estimated annual risk of rupture without intervention. Al-Hashimi et al. (2013). Anaesthesia for elective open AAA repair. Anaesthesia CC & P, 13(6), 208–212.
+#+ATTR_HTML: :width 60%
+[[./Images_ARU_Vascular1/AAA_rupture_risk_AlHashimi2013.jpg]]
+
+#+BEGIN_NOTES
+ Data derived from guidelines which in turn is derived from UK small
+ AAA trial and few other studies. See caption for reference.
+ #+END_NOTES
+
+#+REVEAL: split
+#+ATTR_REVEAL: :frag (fade-left)
+- Open abdominal aortic aneurysm repairs are some of the most
+  challenging cases for anaesthesiologists due to the potential for
+  rapid blood loss combined with aortic cross clamping and organ re
+  perfusion injury
+- Patients are typically elderly with significant co-morbidities
+- Requires an experienced team that must work together to provide
+  preoperative assessment, perioperative management, and postoperative
+  care of the patient
+* Summary
+ :PROPERTIES:
+ :reveal_background: Images_ARU_Vascular1/Venkatesh.jpg
+ :reveal_background_trans: fade
+ :reveal_background_opacity: 0.2
+ :END:
+ 
+* Questions
