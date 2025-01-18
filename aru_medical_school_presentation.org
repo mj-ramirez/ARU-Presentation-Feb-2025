@@ -8,7 +8,7 @@
 #+REVEAL_SLIDE_FOOTER: Broomfield MSE Vascular Unit
 #+REVEAL_EXTRA_CSS: ./local.css
 #+REVEAL_INIT_OPTIONS: slideNumber:true
-#+REVEAL_DEFAULT_SLIDE_BACKGROUND: Images_ARU_Vascular1/Hoppman.jpeg
+#+REVEAL_DEFAULT_SLIDE_BACKGROUND: ./Images_ARU_Vascular1/Hoppman.jpeg
 #+REVEAL_DEFAULT_SLIDE_BACKGROUND_OPACITY:0.2
 :END:
 
@@ -81,7 +81,7 @@ Vascular surgery is a specialized field focusing on diseases of the vascular sys
 @@html:<center><video controls width="1200" height=auto src="./Images_ARU_vascular1/AorticClip1.mp4"></video>@@
 * Anaesthesia
  :PROPERTIES:
- :reveal_background: Images_ARU_Vascular1/anaesthesia.jpg
+ :reveal_background: ./Images_ARU_Vascular1/anaesthesia.jpg
  :reveal_background_trans: fade
  :reveal_background_opacity: 0.2
  :END:
@@ -113,7 +113,7 @@ Vascular surgery is a specialized field focusing on diseases of the vascular sys
   care of the patient
 * Summary
  :PROPERTIES:
- :reveal_background: Images_ARU_Vascular1/Venkatesh.jpg
+ :reveal_background: ./Images_ARU_Vascular1/Venkatesh.jpg
  :reveal_background_trans: fade
  :reveal_background_opacity: 0.2
  :END:
