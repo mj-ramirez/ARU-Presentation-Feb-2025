@@ -68,7 +68,8 @@ Vascular surgery is a specialized field focusing on diseases of the vascular sys
 #+Caption: Carotid artery with overlying cranial nerves. Hypoglossus NXII and Ansa Cervicalis.
 #+ATTR_HTML: :width 45% :align left
 [[./Images_ARU_Vascular1/Carotid_artery_CN2.png]]
-
+** Carotid Occlusion
+@@html:<center><video controls width="1200" height=auto src="./Images_ARU_vascular1/Carotid Occlusion.mp4"></video>@@
 * Peripheral Vascular Disease
 #+ATTR_HTML: :width 40%
 @@html:<center>@@
@@ -79,6 +80,7 @@ Vascular surgery is a specialized field focusing on diseases of the vascular sys
 * Aortic Disease
 ** Imaging of the Aorta I
 @@html:<center><video controls width="1200" height=auto src="./Images_ARU_vascular1/AorticClip1.mp4"></video>@@
+** Iamging of the Aorta II
 * Anaesthesia
  :PROPERTIES:
  :reveal_background: https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/anaesthesia.jpg
