@@ -73,6 +73,18 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/NEJM%20VITT%20Carotid.jpg
 
 #+REVEAL: split
+#+ATTR_REVEAL: :frag (fade-left)
+- 42 yrs Male
+- April 2021 AstraZeneca–Oxford COVID19 Vaccination
+- 10 days post vaccination: Intermittend Headache eventually presenting with
+  loss of vision left eye evolving into right upper limb weakness and motoric
+  dysphasia. Acute ischaemia LEFT lower limb.
+
+#+ATTR_HTML: :width 80%
+@@html:<center>@@
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/VITT_limb_occl.jpg
+
+#+REVEAL: split
 @@html:<center><video controls width="1200" height=auto src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Carotid%20Occlusion.mp4"></video>@@
 * Peripheral Vascular Disease
 #+ATTR_HTML: :width 40%
