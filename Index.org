@@ -67,7 +67,12 @@ Vascular surgery is a specialized field focusing on diseases of the vascular sys
 #+Caption: Carotid artery with overlying cranial nerves. Hypoglossus NXII and Ansa Cervicalis.
 #+ATTR_HTML: :width 45% :align left
 [[./Images_ARU_Vascular1/Carotid_artery_CN2.png]]
-** Carotid Occlusion
+** Carotid Artery Occlusion
+#+ATTR_HTML: :width 80%
+@@html:<center>@@
+[[./Images_ARU_vascular1/NEJM VITT Carotid.jpg]]
+
+#+REVEAL: split
 @@html:<center><video controls width="1200" height=auto src="./Images_ARU_vascular1/Carotid Occlusion.mp4"></video>@@
 * Peripheral Vascular Disease
 #+ATTR_HTML: :width 40%
