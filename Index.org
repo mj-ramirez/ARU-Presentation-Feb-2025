@@ -83,7 +83,7 @@ Vascular surgery is a specialized field focusing on diseases of the vascular sys
 
 * Aortic Disease
 ** Imaging of the Aorta I
-@@html:<center><video controls width="1200" height=auto src="./Images_ARU_vascular1/AorticClip1.mp4"></video>@@
+@@html:<center><video controls width="1200" height=auto src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/AorticClip1.mp4"></video>@@
 ** Iamging of the Aorta II
 * Anaesthesia
  :PROPERTIES:
