@@ -72,7 +72,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 @@html:<center>@@
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/NEJM%20VITT%20Carotid.jpg
 
-#+REVEAL: split
+*** The Patient
 #+ATTR_REVEAL: :frag (fade-left)
 - 42 yrs Male
 - April 2021 AstraZeneca–Oxford COVID19 Vaccination
@@ -80,12 +80,15 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
   loss of vision left eye evolving into right upper limb weakness and motoric
   dysphasia. Acute ischaemia LEFT lower limb.
 
+*** The secondary problem
 #+ATTR_HTML: :width 80%
 @@html:<center>@@
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/VITT_limb_occl.jpg
 
-#+REVEAL: split
-@@html:<center><video controls width="1200" height=auto src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Carotid%20Occlusion.mp4"></video>@@
+*** The major problem
+@@html:<center><video controls width="1200" height=auto
+src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Carotid%20Occlusion.mp4"></video>@@
+
 * Peripheral Vascular Disease
 #+ATTR_HTML: :width 40%
 @@html:<center>@@
@@ -112,7 +115,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 
 #+Caption: Estimated annual risk of rupture without intervention. Al-Hashimi et al. (2013). Anaesthesia for elective open AAA repair. Anaesthesia CC & P, 13(6), 208–212.
 #+ATTR_HTML: :width 60%
-[[./Images_ARU_Vascular1/AAA_rupture_risk_AlHashimi2013.jpg]]
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/AAA_rupture_risk_AlHashimi2013.jpg
 
 #+BEGIN_NOTES
  Data derived from guidelines which in turn is derived from UK small
