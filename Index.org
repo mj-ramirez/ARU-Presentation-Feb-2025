@@ -12,10 +12,10 @@
 #+REVEAL_DEFAULT_SLIDE_BACKGROUND_OPACITY:0.2
 :END:
 #+attr_html: :width 15% :align right
-file:.//Images_ARU_Vascular1/NHS.png
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/NHS.png
 
 #+attr_html: :width 12% :align left
-file:.//Images_ARU_Vascular1/MSEVasc.png
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/MSEVasc.png
 
 #+Author: Manfred Junemann Ramirez
 #+Email: manfred.ramirez@nhs.net
@@ -36,7 +36,7 @@ Vascular surgery is a specialized field focusing on diseases of the vascular sys
 * The Arterial System
 #+ATTR_HTML: :width 38%
 @@html:<center>@@
-[[./Images_ARU_vascular1/Arterial_tree_body.jpg]]
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Arterial_tree_body.jpg
 
 #+REVEAL: split
 #+ATTR_REVEAL: :frag (fade-left)
@@ -58,26 +58,26 @@ Vascular surgery is a specialized field focusing on diseases of the vascular sys
 * The Carotid Arteries
 #+ATTR_HTML: :width 40%
 @@html:<center>@@
-[[./Images_ARU_vascular1/Carotid_Gen.jpeg]]
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Carotid_Gen.jpeg
 ** Surgical Anatomy I
 #+Caption: Carotid artery with overlying cranial nerves. Mandibular branch N VII, Hypoglossus N XII, Vagus N X and Ansa Cervicalis (branches of cervical spinal nerves C1-C3).
 #+ATTR_HTML: :width 45% :align left
-[[./Images_ARU_Vascular1/Carotid_artery_CN.png]]
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Carotid_artery_CN.png
 ** Surgical Anatomy II
 #+Caption: Carotid artery with overlying cranial nerves. Hypoglossus NXII and Ansa Cervicalis.
 #+ATTR_HTML: :width 45% :align left
-[[./Images_ARU_Vascular1/Carotid_artery_CN2.png]]
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Carotid_artery_CN2.png
 ** Carotid Artery Occlusion
 #+ATTR_HTML: :width 80%
 @@html:<center>@@
-[[./Images_ARU_vascular1/NEJM VITT Carotid.jpg]]
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/NEJM%20VITT%20Carotid.jpg
 
 #+REVEAL: split
-@@html:<center><video controls width="1200" height=auto src="./Images_ARU_vascular1/Carotid Occlusion.mp4"></video>@@
+@@html:<center><video controls width="1200" height=auto src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Carotid%20Occlusion.mp4"></video>@@
 * Peripheral Vascular Disease
 #+ATTR_HTML: :width 40%
 @@html:<center>@@
-[[./Images_ARU_Vascular1/Dry_Gangraen1.jpg]]
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Dry_Gangraen1.jpg
 
 ** Diagnostic Evaluation
 
