@@ -11,7 +11,6 @@
 #+REVEAL_DEFAULT_SLIDE_BACKGROUND: https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Hoppman.jpeg
 #+REVEAL_DEFAULT_SLIDE_BACKGROUND_OPACITY:0.2
 :END:
-
 #+attr_html: :width 15% :align right
 file:.//Images_ARU_Vascular1/NHS.png
 
@@ -47,7 +46,7 @@ Vascular surgery is a specialized field focusing on diseases of the vascular sys
 ** Pathophysiology
 #+ATTR_REVEAL: :frag (fade-left)
 - Not enough blood = Occlusive Arterial Disease
-- Too much blood = Aneurysmal (Ruptured) Arterial Disease
+- Too much blood = Aneurysmal Arterial Disease and Trauma
 ** Diagnostic Evaluation
 #+ATTR_REVEAL: :frag (fade-left)
 - Clinical History & Examination
