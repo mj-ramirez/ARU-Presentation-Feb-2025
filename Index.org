@@ -47,6 +47,18 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 #+ATTR_REVEAL: :frag (fade-left)
 - Not enough blood = Occlusive Arterial Disease
 - Too much blood = Aneurysmal Arterial Disease and Trauma
+*** Arterial Vascular Cells
+#+ATTR_HTML: :width 35% :align left
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Vasc%20Biol%20Atheroma.jpg
+
+- Endothelial Cells
+- Smooth Muscle Cells
+- Pericytes
+- Fibroblasts
+- Adult Stem (Progenitor) Cells
+- Haematopoetic System derived Cells
+*** Atherosclerosis
+*** Intimal Hyperplasia
 ** Diagnostic Evaluation
 #+ATTR_REVEAL: :frag (fade-left)
 - Clinical History & Examination
@@ -145,5 +157,4 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
  :reveal_background_trans: fade
  :reveal_background_opacity: 0.2
  :END:
- 
 * Questions
