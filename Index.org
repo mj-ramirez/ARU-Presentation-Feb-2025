@@ -51,6 +51,13 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 #+ATTR_REVEAL: :frag (fade-left)
 - Clinical History & Examination
 - Imaging Techniques
+*** History and Clinical Examination
+#+ATTR_HTML: :width 70%
+@@html:<center>@@
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/History%20Taking%20Chatbot.jpg
+*** The Handheld Doppler
+@@html:<center><video controls width="1200" height=auto src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/HD%20Doppler%20Waveforms_1.mp4"></video>@@
+
 ** Surgical Intervention
 #+ATTR_REVEAL: :frag (fade-left)
 - Open Surgical Approaches
@@ -99,7 +106,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 * Aortic Disease
 ** Imaging of the Aorta I
 @@html:<center><video controls width="1200" height=auto src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/AorticClip1.mp4"></video>@@
-** Iamging of the Aorta II
+** Imaging of the Aorta II
 * Anaesthesia
  :PROPERTIES:
  :reveal_background: https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/anaesthesia.jpg
