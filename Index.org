@@ -39,7 +39,7 @@ Vascular surgery is a specialized field focusing on diseases of the vascular sys
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Arterial_tree_body.jpg
 
 #+REVEAL: split
-#+ATTR_REVEAL: :frag (fade-left)
+#+ATTR_REVEAL:
 - Carotid Arteries
 - Abdominal Aorta
 - Peripheral Arteries
@@ -51,6 +51,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 #+ATTR_HTML: :width 35% :align left
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Vasc%20Biol%20Atheroma.jpg
 
+#+ATTR_REVEAL: :frag (grow)
 - Endothelial Cells
 - Smooth Muscle Cells
 - Pericytes
