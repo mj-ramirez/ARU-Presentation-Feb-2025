@@ -92,12 +92,23 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 #+ATTR_HTML: :width 50% :align right
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/prevalence%20by%20Rutherford.jpg
 
+** Risk Factors for PAD
+#+ATTR_HTML: :width 80%
+@@html:<center>@@
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Risk%20Factors%20OR%20Rutherford.jpg
+
 ** Classification of PAD
 #+ATTR_REVEAL: :frag (shrink none)
 - Asymptomatic Peripheral Arterial Disease
 - Symptomatic  Peripheral Arterial Disease
   + Intermittend Claudication
   + Acute and Chronic Limb-Threatening Ischemia
+
+#+REVEAL: split
+
+#+ATTR_HTML: :width 100%
+@@html:<center>@@
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Classification%20Table%20Rutherford.jpg
 ** Diagnostic Evaluation
 * The Carotid Arteries
 #+ATTR_HTML: :width 40%
@@ -175,4 +186,5 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
  :reveal_background_trans: fade
  :reveal_background_opacity: 0.2
  :END:
-* Questions
+* Sources
+- Rutherford's Vascular Surgery and Endovascular Therapy, Tenth Edition
