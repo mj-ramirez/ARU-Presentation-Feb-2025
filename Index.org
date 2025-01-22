@@ -10,6 +10,7 @@
 #+REVEAL_INIT_OPTIONS: slideNumber:true
 #+REVEAL_DEFAULT_SLIDE_BACKGROUND: https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Hoppman.jpeg
 #+REVEAL_DEFAULT_SLIDE_BACKGROUND_OPACITY:0.2
+#+REVEAL_SPEED:
 :END:
 #+attr_html: :width 15% :align right
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/NHS.png
@@ -81,6 +82,23 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 #+ATTR_REVEAL: :frag (fade-left)
 - Open Surgical Approaches
 - Endovascular techniques
+* Peripheral Vascular Disease
+#+ATTR_HTML: :width 50%
+@@html:<center>@@
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Dry_Gangraen1.jpg
+
+** Prevalence
+#+Caption: Prevalence of Chronic, atherosclerotic occlusive disease of the lower extremities increases with age of populations.
+#+ATTR_HTML: :width 50% :align right
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/prevalence%20by%20Rutherford.jpg
+
+** Classification of PAD
+#+ATTR_REVEAL: :frag (shrink none)
+- Asymptomatic Peripheral Arterial Disease
+- Symptomatic  Peripheral Arterial Disease
+  + Intermittend Claudication
+  + Acute and Chronic Limb-Threatening Ischemia
+** Diagnostic Evaluation
 * The Carotid Arteries
 #+ATTR_HTML: :width 40%
 @@html:<center>@@
@@ -114,13 +132,6 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 *** The major problem
 @@html:<center><video controls width="1200" height=auto
 src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Carotid%20Occlusion.mp4"></video>@@
-
-* Peripheral Vascular Disease
-#+ATTR_HTML: :width 40%
-@@html:<center>@@
-https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Dry_Gangraen1.jpg
-
-** Diagnostic Evaluation
 
 * Aortic Disease
 ** Imaging of the Aorta I
