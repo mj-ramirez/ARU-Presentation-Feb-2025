@@ -45,11 +45,16 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 - Abdominal Aorta
 - Peripheral Arteries
 * Pathophysiology of Arterial Disease
+
 #+ATTR_REVEAL: :frag (fade-left)
 - Not enough blood = Occlusive Arterial Disease
 - Too much blood = Aneurysmal Arterial Disease and Trauma
-#+REVEAL: split
+** Genetics
+- Connective tissue disorders (Aneurysmal Disease)
+- Vascular Malformations (Haemangiomas)
+- Arterio Venous Malformations
 ** Arterial Vascular Cells
+
 #+ATTR_HTML: :width 35% :align left
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Vasc%20Biol%20Atheroma.jpg
 
@@ -69,7 +74,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 ** Intimal Hyperplasia
 ** Atherosclerosis
 * Arterial Trauma
-#+Caption: The 'Wound man' from an English anatomical treatise.; The 'wound man' is a figure found in a number of manuscripts and printed books produced in the 15th and 16th centuries. The artist has evidently detailed the weaponry with loving care and this wound man is remarkable for its concentration of wounds inflicted by violent assault. (The Wellcome Collection https://www.jstor.org/stable/community.24729344)
+#+Caption: The 'Wound man' from an English anatomical treatise.; The 'wound man' is a figure found in a number of manuscripts and printed books produced in the 15th and 16th centuries. The artist has detailed the weaponry with loving care and this wound man is remarkable for its concentration of wounds inflicted by violent assault. (The Wellcome Collection https://www.jstor.org/stable/community.24729344)
 #+ATTR_HTML: :width 33% :align left
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Pseudo%20Galen%20Woundman.jpg
 
