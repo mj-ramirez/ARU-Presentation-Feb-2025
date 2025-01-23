@@ -74,17 +74,14 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 ** Intimal Hyperplasia
 ** Atherosclerosis
 * Arterial Trauma
-#+Caption: The 'Wound man' from an English anatomical treatise.; The 'wound man' is a figure found in a number of manuscripts and printed books produced in the 15th and 16th centuries. The artist has detailed the weaponry with loving care and this wound man is remarkable for its concentration of wounds inflicted by violent assault. (The Wellcome Collection https://www.jstor.org/stable/community.24729344)
+#+Caption: The 'Wound man' from an English anatomical treatise.; The 'wound man' is a figure found in a number of manuscripts produced in the 15th and 16th centuries. The artist has detailed the weaponry with loving care and this wound man is remarkable for its concentration of wounds inflicted by violent assault. (The Wellcome Collection https://www.jstor.org/stable/community.24729344)
 #+ATTR_HTML: :width 33% :align left
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Pseudo%20Galen%20Woundman.jpg
 
-* History and Examination
+* History & Examination
 #+ATTR_HTML: :width 70%
 @@html:<center>@@
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/History%20Taking%20Chatbot.jpg
-*** The Handheld Doppler
-@@html:<center><video controls width="1200" height=auto src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/HD%20Doppler%20Waveforms_1.mp4"></video>@@
-
 * Surgical Intervention
 #+ATTR_REVEAL: :frag (fade-left)
 - Open Surgical Approaches
@@ -104,7 +101,15 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 @@html:<center>@@
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Risk%20Factors%20OR%20Rutherford.jpg
 
-** Classification of PAD
+** Diagnostic Evaluation
+*** History & Examination
+#+ATTR_HTML: :width 50% :align left
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/openAAA_Incisions_rutherford.jpg
+
+#+ATTR_REVEAL: :frag (fade-left)
+- Incidental finding of vascular occlusive disease on Imaging Investigations (asymptomatic disease)
+- Leg pain indicating possible inadequate perfusion (symptomatic disease)
+*** Classification of PAD
 #+ATTR_REVEAL: :frag (shrink none)
 - Asymptomatic Peripheral Arterial Disease
 - Symptomatic  Peripheral Arterial Disease
@@ -116,7 +121,9 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 #+ATTR_HTML: :width 100%
 @@html:<center>@@
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Classification%20Table%20Rutherford.jpg
-** Diagnostic Evaluation
+*** Investigations: The Handheld Doppler
+@@html:<center><video controls width="1200" height=auto src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/HD%20Doppler%20Waveforms_1.mp4"></video>@@
+
 * The Carotid Arteries
 #+ATTR_HTML: :width 40%
 @@html:<center>@@
