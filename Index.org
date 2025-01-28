@@ -74,7 +74,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 ** Intimal Hyperplasia
 ** Atherosclerosis
 * Arterial Trauma
-#+Caption: The 'Wound man' from an English anatomical treatise.; The 'wound man' is a figure found in a number of manuscripts produced in the 15th and 16th centuries. The artist has detailed the weaponry with loving care and this wound man is remarkable for its concentration of wounds inflicted by violent assault. (The Wellcome Collection https://www.jstor.org/stable/community.24729344)
+#+Caption: The 'Wound man' from an English anatomical treatise; A figure found in a number of manuscripts produced in the 15th and 16th centuries. The artist has detailed the weaponry with loving care and this wound man is remarkable for its concentration of wounds inflicted by violent assault. (The Wellcome Collection https://www.jstor.org/stable/community.24729344)
 #+ATTR_HTML: :width 33% :align left
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Pseudo%20Galen%20Woundman.jpg
 
@@ -86,7 +86,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 #+ATTR_REVEAL: :frag (fade-left)
 - Open Surgical Approaches
 - Endovascular techniques
-* Peripheral Vascular Disease
+* Peripheral Arterial Disease
 #+ATTR_HTML: :width 50%
 @@html:<center>@@
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Dry_Gangraen1.jpg
@@ -101,27 +101,33 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 @@html:<center>@@
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Risk%20Factors%20OR%20Rutherford.jpg
 
-** Diagnostic Evaluation
-*** History & Examination
-#+ATTR_HTML: :width 50% :align left
-https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/openAAA_Incisions_rutherford.jpg
+** Clinical Examination of PAD
+#+Caption: Buerger's Test. Following elevation of the legs in the presence of peripheral artery disease the leg will revert to the pink colour more slowly than normal and also pass through the normal pinkness to a red-range (Reactive Hyperaemia). Test named after Leo Buerger 1879 - 1943.
+#+ATTR_HTML: :width 40% :align left
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/PalePink_feet.jpg
 
-#+ATTR_REVEAL: :frag (fade-left)
-- Incidental finding of vascular occlusive disease on Imaging Investigations (asymptomatic disease)
-- Leg pain indicating possible inadequate perfusion (symptomatic disease)
-*** Classification of PAD
-#+ATTR_REVEAL: :frag (shrink none)
-- Asymptomatic Peripheral Arterial Disease
-- Symptomatic  Peripheral Arterial Disease
-  + Intermittend Claudication
-  + Acute and Chronic Limb-Threatening Ischemia
-
+** History
+#+ATTR_REVEAL: :frag (shrink highlight-red)
+- Asymptomatic Peripheral Arterial Disease: Incidental finding of vascular occlusive disease on Imaging Investigations.
+- Symptomatic Peripheral Arterial Disease: Leg pain indicating possible inadequate perfusion.
+- Acute and Chronic Limb-Threatening Ischemia
+*** Intermittend Claudication
+#+ATTR_REVEAL: :frag (appear)
+- Lifestyle Limiting: Patients significantly disabled by claudication, such as
+  they are unable to perform their primary occupations or comfortably carry out
+  the activities of daily living.
+- Non Lifestyle Limiting claudication
+*** Chronic Limb-Threatening Ischemia (CLTI)
+- Persistent, recurring ischemic rest pain requiring opiate analgesia for at
+  least 2 weeks
+- Ulceration or gangrene of the foot or toes
+- Ankle systolic pressure lower than 50 mm Hg; or toe systolic pressure lower than 30 mm Hg.
 #+REVEAL: split
-
+*** Classification
 #+ATTR_HTML: :width 100%
 @@html:<center>@@
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Classification%20Table%20Rutherford.jpg
-*** Investigations: The Handheld Doppler
+** Investigations: The Handheld Doppler
 @@html:<center><video controls width="1200" height=auto src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/HD%20Doppler%20Waveforms_1.mp4"></video>@@
 
 * The Carotid Arteries
