@@ -2,7 +2,7 @@
 #+OPTIONS: reveal_embed_local_resources:t
 #+OPTIONS: reveal_width:1400 reveal_height:800
 #+OPTIONS: num:nil toc:nil author:nil timestamp:nil
-#+REVEAL_INIT_OPTIONS: margin: 0.01, minScale:0.2, maxScale:2.5, transition:'convex'
+#+REVEAL_INIT_OPTIONS: margin: 0.001, minScale:0.2, maxScale:2.5, transition:'convex'
 #+REVEAL_THEME: Sky
 #+REVEAL_TITLE_SLIDE:
 #+REVEAL_SLIDE_FOOTER: Broomfield MSE Vascular Unit
@@ -12,10 +12,10 @@
 #+REVEAL_DEFAULT_SLIDE_BACKGROUND_OPACITY:0.2
 #+REVEAL_SPEED:
 :END:
-#+attr_html: :width 15% :align right
+#+attr_html: :width 12% :align right
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/NHS.png
 
-#+attr_html: :width 12% :align left
+#+attr_html: :width 8% :align left
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/MSEVasc.png
 
 #+Author: Manfred Junemann Ramirez
@@ -106,11 +106,12 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 #+ATTR_HTML: :width 40% :align left
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/PalePink_feet.jpg
 
-** History
-#+ATTR_REVEAL: :frag (shrink highlight-red)
+** Clinical History
+#+ATTR_REVEAL: :frag (shrink highlight-red highlight-red)
 - Asymptomatic Peripheral Arterial Disease: Incidental finding of vascular occlusive disease on Imaging Investigations.
 - Symptomatic Peripheral Arterial Disease: Leg pain indicating possible inadequate perfusion.
-- Acute and Chronic Limb-Threatening Ischemia
+- Chronic Limb-Threatening Ischemia
+- Acute Limb-Threatening Ischemia
 *** Intermittend Claudication
 #+ATTR_REVEAL: :frag (appear)
 - Lifestyle Limiting: Patients significantly disabled by claudication, such as
@@ -118,15 +119,33 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
   the activities of daily living.
 - Non Lifestyle Limiting claudication
 *** Chronic Limb-Threatening Ischemia (CLTI)
+#+ATTR_REVEAL: :frag (appear)
 - Persistent, recurring ischemic rest pain requiring opiate analgesia for at
   least 2 weeks
 - Ulceration or gangrene of the foot or toes
 - Ankle systolic pressure lower than 50 mm Hg; or toe systolic pressure lower than 30 mm Hg.
-#+REVEAL: split
-*** Classification
+** Classification I
 #+ATTR_HTML: :width 100%
 @@html:<center>@@
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Classification%20Table%20Rutherford.jpg
+** Classification II
+
+#+Caption: Part One - Ischaemia. Reference: Mills, Conte & Armstrong et al. (2014) The Society for Vascular Surgery Lower Extremity Threatened Limb Classification System: Risk stratification based on Wound, Ischemia, and foot Infection (WIfI), Journal of Vascular Surgery.
+#+ATTR_HTML: :width 60% :align left
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Wifi%20Class%20Part%201.jpg
+
+#+REVEAL: split
+
+#+Caption: Part Two - Infection. Reference: Mills, Conte & Armstrong et al. (2014) The Society for Vascular Surgery Lower Extremity Threatened Limb Classification System: Risk stratification based on Wound, Ischemia, and foot Infection (WIfI), Journal of Vascular Surgery.
+#+ATTR_HTML: :width 60% :align left
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Wifi%20Class%20Part2.jpg
+
+#+REVEAL: split
+
+#+Caption: Part Three - Risk of limb loss vs benefit from revascularisation. Reference: Mills, Conte & Armstrong et al. (2014) The Society for Vascular Surgery Lower Extremity Threatened Limb Classification System: Risk stratification based on Wound, Ischemia, and foot Infection (WIfI), Journal of Vascular Surgery.
+#+ATTR_HTML: :width 35% :align right
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Wifi%20Class%20Part3.jpg
+
 ** Investigations: The Handheld Doppler
 @@html:<center><video controls width="1200" height=auto src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/HD%20Doppler%20Waveforms_1.mp4"></video>@@
 
