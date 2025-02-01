@@ -1,6 +1,6 @@
 :REVEAL_PROPERTIES:
 #+OPTIONS: reveal_embed_local_resources:t
-#+OPTIONS: reveal_width:1400 reveal_height:800
+#+OPTIONS: reveal_width:1600 reveal_height:1000
 #+OPTIONS: num:nil toc:nil author:nil timestamp:nil
 #+REVEAL_INIT_OPTIONS: margin: 0.001, minScale:0.2, maxScale:2.5, transition:'convex'
 #+REVEAL_THEME: Sky
@@ -130,20 +130,20 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Classification%20Table%20Rutherford.jpg
 ** Classification II
 
-#+Caption: Part One - Ischaemia. Reference: Mills, Conte & Armstrong et al. (2014) The Society for Vascular Surgery Lower Extremity Threatened Limb Classification System: Risk stratification based on Wound, Ischemia, and foot Infection (WIfI), Journal of Vascular Surgery.
+#+Caption: Part One - Clinical Signs of Ischaemia. Reference: Mills, Conte & Armstrong et al. (2014) The Society for Vascular Surgery Lower Extremity Threatened Limb Classification System: Risk stratification based on Wound, Ischemia, and foot Infection (WIfI), Journal of Vascular Surgery.
 #+ATTR_HTML: :width 60% :align left
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Wifi%20Class%20Part%201.jpg
 
 #+REVEAL: split
 
-#+Caption: Part Two - Infection. Reference: Mills, Conte & Armstrong et al. (2014) The Society for Vascular Surgery Lower Extremity Threatened Limb Classification System: Risk stratification based on Wound, Ischemia, and foot Infection (WIfI), Journal of Vascular Surgery.
+#+Caption: Part Two - Clinical Signs of Infection. Reference: Mills, Conte & Armstrong et al. (2014) The Society for Vascular Surgery Lower Extremity Threatened Limb Classification System: Risk stratification based on Wound, Ischemia, and foot Infection (WIfI), Journal of Vascular Surgery.
 #+ATTR_HTML: :width 60% :align left
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Wifi%20Class%20Part2.jpg
 
 #+REVEAL: split
 
-#+Caption: Part Three - Risk of limb loss vs benefit from revascularisation. Reference: Mills, Conte & Armstrong et al. (2014) The Society for Vascular Surgery Lower Extremity Threatened Limb Classification System: Risk stratification based on Wound, Ischemia, and foot Infection (WIfI), Journal of Vascular Surgery.
-#+ATTR_HTML: :width 35% :align right
+#+Caption: Part Three - Risk of limb loss vs estimated benefit from revascularisation. Reference: Mills, Conte & Armstrong et al. (2014) The Society for Vascular Surgery Lower Extremity Threatened Limb Classification System: Risk stratification based on Wound, Ischemia, and foot Infection (WIfI), Journal of Vascular Surgery.
+#+ATTR_HTML: :width 39% :align left
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Wifi%20Class%20Part3.jpg
 
 ** Investigations: The Handheld Doppler
