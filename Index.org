@@ -181,6 +181,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 
 *** Investigations: The Handheld Doppler
 @@html:<center><video controls width="1600" height=auto src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/HD%20Doppler%20Waveforms_1.mp4"></video>@@
+*** Surgical Management Options
 ** Acute Lower Limb Ischaemia
 #+Caption: Embolic Fragment in the Centre of the Image, With the Tail of Secondary Thrombus Shown Around It.
 #+ATTR_HTML: :width 40% :align left
@@ -205,6 +206,24 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 - Duplex Utrasound
 - CT angiography
 - Intra Operative Angiography (DSA)
+*** Surgical Managament Options
+#+ATTR_HTML: :width 40% :align left
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Embolectomy%20Schematic.jpg
+
+Because of the ensuing stasis, a thrombus can extend distally and proximally to
+the embolus. The immediate administration of 5000 U of heparin intravenously
+can reduce this extension and maintain patency of the surrounding (particularly
+the distal) vessels until the embolus can be treated.
+
+#+ATTR_REVEAL: :frag (appear)
+- Endovascular Options
+  - Intra arterial Directed Thrombolysis
+  - Pharmaco mechanical Thrombectomy
+  - Mechanical Thrombectomy
+- Open Surgical Options
+  - Open Surgical Thrombo-embolectomy
+  - Fasciotomy (Compartment Syndrome)
+  - Amputation (Above or Below Knee)
 * The Carotid Arteries
 #+ATTR_HTML: :width 40%
 @@html:<center>@@
