@@ -50,10 +50,6 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 #+ATTR_REVEAL: :frag (fade-left)
 - Not enough blood = Occlusive Arterial Disease
 - Too much blood = Aneurysmal Arterial Disease and Trauma
-** Genetics
-- Connective tissue disorders (Aneurysmal Disease)
-- Vascular Malformations (Haemangiomas)
-- Arterio Venous Malformations
 ** Arterial Vascular Cells
 
 #+ATTR_HTML: :width 35% :align left
@@ -179,7 +175,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Wifi%20Class%20Part3.jpg
 
 *** Investigations: The Handheld Doppler
-@@html:<center><video controls width="1200" height=auto src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/HD%20Doppler%20Waveforms_1.mp4"></video>@@
+@@html:<center><video controls width="1600" height=auto src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/HD%20Doppler%20Waveforms_1.mp4"></video>@@
 ** Acute Lower Limb Ischaemia
 #+Caption: Embolic Fragment in the Centre of the Image, With the Tail of Secondary Thrombus Shown Around It.
 #+ATTR_HTML: :width 40% :align left
