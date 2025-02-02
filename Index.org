@@ -32,6 +32,7 @@ Vascular surgery is a specialized field focusing on diseases of the vascular sys
 #+ATTR_REVEAL: :frag (fade-left)
  - Anatomy & Physiology
  - Pathophysiology
+ - Clinical Presentation
  - Diagnostic Evaluation
  - Surgical Interventions
 * The Arterial System
@@ -112,23 +113,24 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 - Symptomatic Peripheral Arterial Disease: Leg pain indicating possible inadequate perfusion.
 - Chronic Limb-Threatening Ischemia
 - Acute Limb-Threatening Ischemia
+** Chronic Limb-Threatening Ischemia (CLTI)
 *** Intermittend Claudication
 #+ATTR_REVEAL: :frag (appear)
 - Lifestyle Limiting: Patients significantly disabled by claudication, such as
   they are unable to perform their primary occupations or comfortably carry out
   the activities of daily living.
 - Non Lifestyle Limiting claudication
-*** Chronic Limb-Threatening Ischemia (CLTI)
+*** Acute on Chronic Limb-Threatening Ischaemia (CLTI) Tissue loss
 #+ATTR_REVEAL: :frag (appear)
 - Persistent, recurring ischemic rest pain requiring opiate analgesia for at
   least 2 weeks
 - Ulceration or gangrene of the foot or toes
 - Ankle systolic pressure lower than 50 mm Hg; or toe systolic pressure lower than 30 mm Hg.
-** Classification I
+*** Classification I
 #+ATTR_HTML: :width 100%
 @@html:<center>@@
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Classification%20Table%20Rutherford.jpg
-** Classification II
+*** Classification II
 
 #+Caption: Part One - Clinical Signs of Ischaemia. Reference: Mills, Conte & Armstrong et al. (2014) The Society for Vascular Surgery Lower Extremity Threatened Limb Classification System: Risk stratification based on Wound, Ischemia, and foot Infection (WIfI), Journal of Vascular Surgery.
 #+ATTR_HTML: :width 60% :align left
@@ -146,8 +148,28 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 #+ATTR_HTML: :width 39% :align left
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Wifi%20Class%20Part3.jpg
 
-** Investigations: The Handheld Doppler
+*** Investigations: The Handheld Doppler
 @@html:<center><video controls width="1200" height=auto src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/HD%20Doppler%20Waveforms_1.mp4"></video>@@
+** Acute Lower Limb Ischaemia
+#+Caption: Embolic Fragment in the Centre of the Image, With the Tail of Secondary Thrombus Shown Around It.
+#+ATTR_HTML: :width 40% :align left
+ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Thrombectomy%20specimen.jpg
+
+*** Clinical Presentation
+#+ATTR_HTML: :width 70%
+@@html:<center>@@
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Acute%20Limb%20Ischaemia01.jpg
+
+#+ATTR_REVEAL: :frag (appear)
+- Sudden deterioration in the arterial supply
+- Pain, pallor, paresis, pulse deficit, paresthesia and perishing with cold
+- Arterial embolism and thrombosis
+- Life and Limb threatening condition
+- Your patient has a few hours not days !!!
+*** Classification of Acute Ischaemia
+#+ATTR_HTML: :width 100%
+@@html:<center>@@
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Acute%20Limb%20Ischaemia%20Classsification.jpg
 
 * The Carotid Arteries
 #+ATTR_HTML: :width 40%
