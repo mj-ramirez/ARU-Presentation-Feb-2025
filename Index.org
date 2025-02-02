@@ -72,8 +72,20 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
   - Platelets
   - Erythrocytes
   - Adult Stem (Progenitor) Cells
+
+#+REVEAL: split
+
+#+Caption: Confocal Microscopy Image of Arterial wall Endothelial Cells (Blue and Red) with underlying Smooth Muscle Cell layer (Green)
+#+ATTR_HTML: :width 47% :align right
+    https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Endothelium%20Confocal.jpg
 ** Intimal Hyperplasia
+#+Caption: Neointimal hyperplasia experiment mechanically induced
+#+ATTR_HTML: :width 100%
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Neointima%20RCCA.jpg
 ** Atherosclerosis
+#+Caption: Atherosclerosis is a chronic inflammatory disease of the arterial wall is characterized by the accumulation of lipids, immune cells, and fibrous elements, leading to plaque formation. This progressive condition narrows arteries, reducing blood flow and increasing the risk of cardiovascular diseases such as peripheral arterial disease, heart attacks and strokes.
+#+ATTR_HTML: :width 75% : align center
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Atherosclerosis%20Illustration.jpg
 * Arterial Trauma
 #+Caption: The 'Wound man' from an English anatomical treatise; A figure found in a number of manuscripts produced in the 15th and 16th centuries. The artist has detailed the weaponry with loving care and this wound man is remarkable for its concentration of wounds inflicted by violent assault. (The Wellcome Collection https://www.jstor.org/stable/community.24729344)
 #+ATTR_HTML: :width 33% :align left
@@ -272,10 +284,10 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 - Peripheral arterial disease (PAD) leads to endorgan ischaemia
 - Risk factors include: Smoking, FHx, Diabetes, Hypertension, Age and
   Cholesterol
-- PAD can present as asymptomatic, claudication
+- PAD in lower limbs can present as asymptomatic or claudication
 - PAD with tissue loss requires URGENT intervention
 - Acute lower limb ischaemia requeries EMERGENCY intervention
-- Investigation includes multple Imaging Modalities
+- Investigation includes multple Imaging Modalities (Duplex, CTA, MRA)
 - Medical management include lifestyle changes and pharmacological therapy
 - Surgical management options include open, endovascular and hybrid approaches
 * Sources
