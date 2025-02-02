@@ -83,6 +83,24 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 #+ATTR_HTML: :width 70%
 @@html:<center>@@
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/History%20Taking%20Chatbot.jpg
+* Investigation Modalities
+#+ATTR_REVEAL: :frag (appear)
+- Hand held Doppler
+- Ulrasound Duplex
+- Computer Tomographic Angiography (CTA)
+- Magnetic Resonance Tomographic Angiography (MRA)
+** Doppler and USS Duplex
+#+ATTR_HTML: :width 100%
+@@html:<center>@@
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Doppler%20and%20Duplex%20Machine.jpg
+** Computer Tomographic Angiography
+#+ATTR_HTML: :width 100%
+@@html:<center>@@
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/CT%20angiography%20Samples.jpg
+** MAgnetic Resonance Angiography
+#+ATTR_HTML: :width 100%
+@@html:<center>@@
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/MRA%20samples%20lower%20limb.jpg
 * Surgical Intervention
 #+ATTR_REVEAL: :frag (fade-left)
 - Open Surgical Approaches
@@ -113,7 +131,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 - Symptomatic Peripheral Arterial Disease: Leg pain indicating possible inadequate perfusion.
 - Chronic Limb-Threatening Ischemia
 - Acute Limb-Threatening Ischemia
-** Chronic Limb-Threatening Ischemia (CLTI)
+** Chronic Limb-Threatening Ischaemia (CLTI)
 *** Intermittend Claudication
 #+ATTR_REVEAL: :frag (appear)
 - Lifestyle Limiting: Patients significantly disabled by claudication, such as
@@ -245,10 +263,20 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
   preoperative assessment, perioperative management, and postoperative
   care of the patient
 * Summary
- :PROPERTIES:
+:PROPERTIES:
  :reveal_background: https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Venkatesh.jpg
  :reveal_background_trans: fade
  :reveal_background_opacity: 0.2
  :END:
+#+ATTR_REVEAL: :frag (fade-left)
+- Peripheral arterial disease (PAD) leads to endorgan ischaemia
+- Risk factors include: Smoking, FHx, Diabetes, Hypertension, Age and
+  Cholesterol
+- PAD can present as asymptomatic, claudication
+- PAD with tissue loss requires URGENT intervention
+- Acute lower limb ischaemia requeries EMERGENCY intervention
+- Investigation includes multple Imaging Modalities
+- Medical management include lifestyle changes and pharmacological therapy
+- Surgical management options include open, endovascular and hybrid approaches
 * Sources
 - Rutherford's Vascular Surgery and Endovascular Therapy, Tenth Edition
