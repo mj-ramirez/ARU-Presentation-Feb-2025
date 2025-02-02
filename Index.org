@@ -110,9 +110,14 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 @@html:<center>@@
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/MRA%20samples%20lower%20limb.jpg
 * Surgical Intervention
-#+ATTR_REVEAL: :frag (fade-left)
-- Open Surgical Approaches
-- Endovascular techniques
+** Open Surgical Approaches
+#+Caption: Atherosclerotic narrowing of the aortic bifurcation. Aortobifemoral graft to bypass stenosis. Superficial femoral artery occlusion. Dacron bifurcation graft; straight polytetrafluoroethylene graft.
+#+ATTR_HTML: :width 90% :align center
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Aorto%20iliac%20and%20Infra%20Inguinal%20Dacron.jpg
+** Endovascular techniques
+#+Caption: Magnetic resonance angiogram showing a tight stenosis at the midpoint of the left common iliac artery. Balloon catheter carrying stent and expanded stent.
+#+ATTR_HTML: :width 90% :align center
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Aorto%20Iliac%20Endovascular.jpg
 * Peripheral Arterial Disease
 #+ATTR_HTML: :width 50%
 @@html:<center>@@
