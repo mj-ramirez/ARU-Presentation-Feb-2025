@@ -145,7 +145,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 #+REVEAL: split
 
 #+Caption: Part Three - Risk of limb loss vs estimated benefit from revascularisation. Reference: Mills, Conte & Armstrong et al. (2014) The Society for Vascular Surgery Lower Extremity Threatened Limb Classification System: Risk stratification based on Wound, Ischemia, and foot Infection (WIfI), Journal of Vascular Surgery.
-#+ATTR_HTML: :width 39% :align left
+#+ATTR_HTML: :width 39% :align right
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Wifi%20Class%20Part3.jpg
 
 *** Investigations: The Handheld Doppler
@@ -160,9 +160,9 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 @@html:<center>@@
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Acute%20Limb%20Ischaemia01.jpg
 
-#+ATTR_REVEAL: :frag (appear)
-- Sudden deterioration in the arterial supply
+#+ATTR_REVEAL: :frag (highlight-red  appear appear appear appear)
 - Pain, pallor, paresis, pulse deficit, paresthesia and perishing with cold
+- Sudden deterioration in the arterial supply
 - Arterial embolism and thrombosis
 - Life and Limb threatening condition
 - Your patient has a few hours not days !!!
@@ -170,7 +170,10 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 #+ATTR_HTML: :width 100%
 @@html:<center>@@
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Acute%20Limb%20Ischaemia%20Classsification.jpg
-
+*** Investigations
+- Duplex Utrasound
+- CT angiography
+- Intra Operative Angiography (DSA)
 * The Carotid Arteries
 #+ATTR_HTML: :width 40%
 @@html:<center>@@
