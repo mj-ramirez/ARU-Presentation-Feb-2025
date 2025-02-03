@@ -36,7 +36,7 @@ Vascular surgery is a specialized field focusing on diseases of the vascular sys
  - Diagnostic Evaluation
  - Surgical Interventions
 * The Arterial System
-#+ATTR_HTML: :width 38%
+#+ATTR_HTML: :width 44%
 @@html:<center>@@
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Arterial_tree_body.jpg
 
