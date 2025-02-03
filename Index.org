@@ -191,7 +191,15 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 
 *** Investigations: The Handheld Doppler
 @@html:<center><video controls width="1600" height=auto src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/HD%20Doppler%20Waveforms_1.mp4"></video>@@
-*** Surgical Management Options
+*** Endovascular approach for CLTI with below knee stenosis
+#+Caption: Angioplasty Balloon Types. (A) "Over the wire" system with standard central lumen access (white arrow). (B) Balloon of a monorail system: a wire is exiting the proximal side port of the balloon (black arrow).
+#+ATTR_HTML: :width 55% :align left
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Angioplasty%20below%20knee%20RX%20system%20vs%20OTW.jpg
+
+*** Bypass Surgery (Femoro-Popliteal) for CLTI
+#+Caption: Femoro-Popliteal Bypass Graft. Anatomical considerations and Basic Surgical Skills. Initial on-table completion angiography identifies a significant distal anastomotic defect. The anastomosis was re-explored, the defect was corrected, and the graft is patent at 3 years.
+#+ATTR_HTML: :width 80%
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Bypass%20Schema%20and%20Angio.jpg
 
 ** Acute Lower Limb Ischaemia
 #+Caption: Embolic Fragment in the Centre of the Image, With the Tail of Secondary Thrombus Shown Around It.
