@@ -42,11 +42,19 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 
 #+REVEAL: split
 #+ATTR_REVEAL: :frag (grow)
+- Peripheral Arteries
 - Carotid Arteries
 - Abdominal Aorta
-- Peripheral Arteries
-* Pathophysiology of Arterial Disease
 
+#+REVEAL: split
+#+ATTR_REVEAL: :frag (grow)
+- Define peripheral arterial disease
+- Describe the risk factors and the pathophysiology of PAD
+- Recognise the symptoms and signs of patients with PAD
+- Compare chronic vs acute ischaemia
+- Understand the investigations required for patient with PAD
+- Describe the potential management options
+* Pathophysiology of Arterial Disease
 #+ATTR_REVEAL: :frag (fade-left)
 - Not enough blood = Occlusive Arterial Disease
 - Too much blood = Aneurysmal Arterial Disease and Trauma
@@ -82,6 +90,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 #+Caption: Atherosclerosis is a chronic inflammatory disease of the arterial wall is characterized by the accumulation of lipids, immune cells, and fibrous elements, leading to plaque formation. This progressive condition narrows arteries, reducing blood flow and increasing the risk of cardiovascular diseases such as peripheral arterial disease, heart attacks and strokes.
 #+ATTR_HTML: :width 75% : align center
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Atherosclerosis%20Illustration.jpg
+
 * Arterial Trauma
 #+Caption: The 'Wound man' from an English anatomical treatise; A figure found in a number of manuscripts produced in the 15th and 16th centuries. The artist has detailed the weaponry with loving care and this wound man is remarkable for its concentration of wounds inflicted by violent assault. (The Wellcome Collection https://www.jstor.org/stable/community.24729344)
 #+ATTR_HTML: :width 33% :align left
@@ -91,6 +100,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 #+ATTR_HTML: :width 70%
 @@html:<center>@@
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/History%20Taking%20Chatbot.jpg
+
 * Investigation Modalities
 #+ATTR_REVEAL: :frag (appear)
 - Hand held Doppler
@@ -182,6 +192,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 *** Investigations: The Handheld Doppler
 @@html:<center><video controls width="1600" height=auto src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/HD%20Doppler%20Waveforms_1.mp4"></video>@@
 *** Surgical Management Options
+
 ** Acute Lower Limb Ischaemia
 #+Caption: Embolic Fragment in the Centre of the Image, With the Tail of Secondary Thrombus Shown Around It.
 #+ATTR_HTML: :width 40% :align left
@@ -224,6 +235,23 @@ the distal) vessels until the embolus can be treated.
   - Open Surgical Thrombo-embolectomy
   - Fasciotomy (Compartment Syndrome)
   - Amputation (Above or Below Knee)
+
+#+REVEAL: split
+
+- Endovascular Catheter Directed Thrombolysis
+
+#+Caption: Angiogram of an occluded popliteal artery before thrombolysis (left), during successful lysis (middle) and after completion of lysis (right). Seldinger needle and guidewire for introducing an arterial catheter.
+#+ATTR_HTML: :width 75% :align left
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Catheter%20Direceted%20Thrombolysis.jpg
+
+#+REVEAL: split
+
+- Open Surgical Thrombo-embolectomy
+
+#+Caption: A balloon thromboembolectomy catheter is passed proximally for an estimated distance (A), inflated (B), and withdrawn through the arteriotomy, with bleeding controlled by double-looped Silastic tape (C). Access to the artery requires open surgical exposure.
+#+ATTR_HTML: :width 50% :align right
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Open%20Embolectomy%20Schematic.jpg
+
 * The Carotid Arteries
 #+ATTR_HTML: :width 40%
 @@html:<center>@@
@@ -255,13 +283,19 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/VITT_limb_occl.jpg
 
 *** The major problem
-@@html:<center><video controls width="1200" height=auto
+@@html:<center><video controls width="1600" height=auto
 src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Carotid%20Occlusion.mp4"></video>@@
 
 * Aortic Disease
 ** Imaging of the Aorta I
-@@html:<center><video controls width="1200" height=auto src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/AorticClip1.mp4"></video>@@
-** Imaging of the Aorta II
+@@html:<center><video controls width="1600" height=auto
+src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/AorticClip1.mp4"></video>@@
+
+** Endovascular Aortic Aneurysm Repair
+#+Caption: (A) Cook Zenith stent graft. (B) Gore Excluder stent graft. (C) Medtronic Endurant stent graft. (D)  Endologix AFX stent graft. (E) Trivascular Ovation stent graft. (F) Lombard Medical Aorfix stent graft. (G) Terumo Treo.
+#+ATTR_HTML: :width 60% :align center
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Aortic%20Stent%20Grafts.jpg
+
 * Anaesthesia
  :PROPERTIES:
  :reveal_background: https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/anaesthesia.jpg
