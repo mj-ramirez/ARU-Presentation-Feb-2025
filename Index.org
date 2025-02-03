@@ -294,10 +294,20 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 @@html:<center><video controls width="1600" height=auto
 src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Carotid%20Occlusion.mp4"></video>@@
 
-* Aortic Disease
+* Abdominal Aortic Aneurysms
+#+ATTR_HTML: :width 50%
+@@html:<center>@@
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Netter%20modified%20AAA.jpg
 ** Imaging of the Aorta I
 @@html:<center><video controls width="1600" height=auto
 src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/AorticClip1.mp4"></video>@@
+
+#+REVEAL: split
+
+- Curved Multiplanar Reconstruction CT angiogram
+#+ATTR_HTML: :width 100%
+@@html:<center>@@
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Curved%20MPR%20Image.jpg
 
 ** Endovascular Aortic Aneurysm Repair
 #+Caption: (A) Cook Zenith stent graft. (B) Gore Excluder stent graft. (C) Medtronic Endurant stent graft. (D)  Endologix AFX stent graft. (E) Trivascular Ovation stent graft. (F) Lombard Medical Aorfix stent graft.
