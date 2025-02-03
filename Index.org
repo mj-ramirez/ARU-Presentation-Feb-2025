@@ -292,9 +292,19 @@ src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/I
 src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/AorticClip1.mp4"></video>@@
 
 ** Endovascular Aortic Aneurysm Repair
-#+Caption: (A) Cook Zenith stent graft. (B) Gore Excluder stent graft. (C) Medtronic Endurant stent graft. (D)  Endologix AFX stent graft. (E) Trivascular Ovation stent graft. (F) Lombard Medical Aorfix stent graft. (G) Terumo Treo.
-#+ATTR_HTML: :width 60% :align center
+#+Caption: (A) Cook Zenith stent graft. (B) Gore Excluder stent graft. (C) Medtronic Endurant stent graft. (D)  Endologix AFX stent graft. (E) Trivascular Ovation stent graft. (F) Lombard Medical Aorfix stent graft.
+#+ATTR_HTML: :width 70% :align left
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Aortic%20Stent%20Grafts.jpg
+
+** The Hybrid Operating Theatre
+ :PROPERTIES:
+ :reveal_background: https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Hybrid%20Theatre%20Example.jpg
+ :reveal_background_opacity: 0.9
+ :END:
+** Open Abdominal Aortic Surgery
+#+Caption: Schematic of open Operative Technique. Transperitoneal and retroperitoneal approaches are the two most commonly used approaches. Positioning of the patient and exposure of the abdominal aorta including renal arteries and Iliac arteries.
+#+ATTR_HTML: :width 80% :align left
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/OpenAA%20surgery%20Incisions2.jpg
 
 * Anaesthesia
  :PROPERTIES:
@@ -341,7 +351,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 - PAD in lower limbs can present as asymptomatic or claudication
 - PAD with tissue loss requires URGENT intervention
 - Acute lower limb ischaemia requeries EMERGENCY intervention
-- Investigation includes multple Imaging Modalities (Duplex, CTA, MRA)
+- Investigation includes multiple Imaging Modalities (Duplex, CTA, MRA)
 - Medical management include lifestyle changes and pharmacological therapy
 - Surgical management options include open, endovascular and hybrid approaches
 * Sources
