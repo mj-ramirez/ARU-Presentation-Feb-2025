@@ -133,6 +133,10 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 @@html:<center>@@
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Dry_Gangraen1.jpg
 
+- Peripheral arterial disease (PAD) is a chronic inflammatory disease of the
+  arterial wall resulting arterial stenosis with consequential endorgan
+  ischaemia
+
 ** Prevalence
 #+Caption: Prevalence of Chronic, atherosclerotic occlusive disease of the lower extremities increases with age of populations.
 #+ATTR_HTML: :width 50% :align right
@@ -143,25 +147,26 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 @@html:<center>@@
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Risk%20Factors%20OR%20Rutherford.jpg
 
+** Clinical History
+#+ATTR_REVEAL: :frag (shrink shrink highlight-red highlight-red highlight-red)
+- Asymptomatic Peripheral Arterial Disease: Incidental finding of vascular
+  occlusive disease on Imaging Investigations.
+- Symptomatic Peripheral Arterial Disease: Claudication
+- Chronic Limb-Threatening Ischemia (CLTI)
+- Acute on Chronic CLTI
+- Acute Limb-Threatening Ischemia
 ** Clinical Examination of PAD
 #+Caption: Buerger's Test. Following elevation of the legs in the presence of peripheral artery disease the leg will revert to the pink colour more slowly than normal and also pass through the normal pinkness to a red-range (Reactive Hyperaemia). Test named after Leo Buerger 1879 - 1943.
 #+ATTR_HTML: :width 40% :align left
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/PalePink_feet.jpg
 
-** Clinical History
-#+ATTR_REVEAL: :frag (shrink highlight-red highlight-red)
-- Asymptomatic Peripheral Arterial Disease: Incidental finding of vascular occlusive disease on Imaging Investigations.
-- Symptomatic Peripheral Arterial Disease: Leg pain indicating possible inadequate perfusion.
-- Chronic Limb-Threatening Ischemia
-- Acute Limb-Threatening Ischemia
-** Chronic Limb-Threatening Ischaemia (CLTI)
-*** Intermittend Claudication
+** Intermittend Claudication
 #+ATTR_REVEAL: :frag (appear)
 - Lifestyle Limiting: Patients significantly disabled by claudication, such as
   they are unable to perform their primary occupations or comfortably carry out
   the activities of daily living.
 - Non Lifestyle Limiting claudication
-*** Acute on Chronic Limb-Threatening Ischaemia (CLTI) Tissue loss
+** Chronic Limb-Threatening Ischaemia w/o Tissue loss
 #+ATTR_REVEAL: :frag (appear)
 - Persistent, recurring ischemic rest pain requiring opiate analgesia for at
   least 2 weeks
