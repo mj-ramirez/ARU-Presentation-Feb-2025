@@ -41,7 +41,7 @@ Vascular surgery is a specialized field focusing on diseases of the vascular sys
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Arterial_tree_body.jpg
 
 #+REVEAL: split
-#+ATTR_REVEAL: :frag (grow)
+#+ATTR_REVEAL: :frag (highlight-red appear appear)
 - Peripheral Arteries
 - Carotid Arteries
 - Abdominal Aorta
