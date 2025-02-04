@@ -1,7 +1,7 @@
 :REVEAL_PROPERTIES:
 #+OPTIONS: reveal_embed_local_resources:t
 #+OPTIONS: reveal_width:1600 reveal_height:1000
-#+OPTIONS: num:nil toc:nil author:nil timestamp:nil
+#+OPTIONS: num:nil toc:nil author:nil timestamp:t
 #+REVEAL_INIT_OPTIONS: margin: 0.001, minScale:0.2, maxScale:2.5, transition:'convex'
 #+REVEAL_THEME: Sky
 #+REVEAL_TITLE_SLIDE:
