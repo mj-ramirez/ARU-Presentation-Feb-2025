@@ -363,7 +363,8 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
  :reveal_background_opacity: 0.2
  :END:
 #+ATTR_REVEAL: :frag (fade-left)
-- Peripheral arterial disease (PAD) leads to endorgan ischaemia
+- Peripheral arterial disease (PAD) is a chronic inflammatory disease of the
+  arterial wall resulting arterial stenosis with consequential endorgan ischaemia
 - Risk factors include: Smoking, FHx, Diabetes, Hypertension, Age and
   Cholesterol
 - PAD in lower limbs can present as asymptomatic or claudication
