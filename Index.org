@@ -30,7 +30,7 @@ February 2025
 ** Vascular Surgery Learning Objectives
 Vascular surgery is a specialized field focusing on diseases of the vascular system, which includes arteries, veins, and lymphatic circulation.
 #+ATTR_REVEAL: :frag (fade-left)
- - Anatomy & Physiology
+ - Anatomy
  - Pathophysiology
  - Clinical Presentation
  - Diagnostic Evaluation
