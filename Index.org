@@ -347,11 +347,11 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
  :reveal_background_opacity: 0.2
  :END:
 ** General Considerations
- :PROPERTIES:
- :reveal_background: Images_ARU_Vascular1/anaesthesia.jpg
- :reveal_background_trans: fade
- :reveal_background_opacity: 0.2
- :END:
+:PROPERTIES:
+:reveal_background: https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/anaesthesia.jpg
+:reveal_background_trans: fade
+:reveal_background_opacity: 0.2
+:END:
 
 #+Caption: Estimated annual risk of rupture without intervention. Al-Hashimi et al. (2013). Anaesthesia for elective open AAA repair. Anaesthesia CC & P, 13(6), 208–212.
 #+ATTR_HTML: :width 60%
@@ -360,7 +360,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 #+BEGIN_NOTES
  Data derived from guidelines which in turn is derived from UK small
  AAA trial and few other studies. See caption for reference.
- #+END_NOTES
+#+END_NOTES
 
 #+REVEAL: split
 #+ATTR_REVEAL: :frag (fade-left)
