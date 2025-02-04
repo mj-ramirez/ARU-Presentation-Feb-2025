@@ -283,8 +283,8 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 - April 2021 AstraZeneca–Oxford COVID19 Vaccination
 - 10 days post vaccination: Intermittend Headache eventually presenting with
   loss of vision left eye evolving into right upper limb weakness and motoric
-  dysphasia. Acute ischaemia LEFT lower limb.
-
+  dysphasia.
+- Acute ischaemia LEFT lower limb.
 *** The secondary problem
 #+ATTR_HTML: :width 80%
 @@html:<center>@@
@@ -293,6 +293,17 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 *** The major problem
 @@html:<center><video controls width="1600" height=auto
 src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Carotid%20Occlusion.mp4"></video>@@
+
+#+REVEAL: split
+
+#+Caption: MRI Brain showing restricted diffusion in left MCA terrtitory as evidence of acute ischaemic event.
+#+ATTR_HTML: :width 70% :align left
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Brain%20MRI%20Left%20MCA%20CVA.jpg
+
+*** Neuro Interventional Radiology
+#+ATTR_HTML: :width 65%
+@@html:<center>@@
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Neuro%20IR%20ICA%20thrombectomy.jpg
 
 * Abdominal Aortic Aneurysms
 #+ATTR_HTML: :width 50%
