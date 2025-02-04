@@ -166,7 +166,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
   they are unable to perform their primary occupations or comfortably carry out
   the activities of daily living.
 - Non Lifestyle Limiting claudication
-** Chronic Limb-Threatening Ischaemia w/o Tissue loss
+** Chronic Limb-Threatening Ischaemia +/- Tissue loss
 #+ATTR_REVEAL: :frag (appear)
 - Persistent, recurring ischemic rest pain requiring opiate analgesia for at
   least 2 weeks
