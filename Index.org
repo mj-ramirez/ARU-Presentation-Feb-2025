@@ -160,6 +160,17 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 #+ATTR_HTML: :width 40% :align left
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/PalePink_feet.jpg
 
+** Anatomical Classification
+
+#+Caption: Definition of arterial anatomical segments for the Bollinger scoring system (1981). 1) Abdominal Aorta 2) Common Iliac 3) External Iliac 4) Internal Iliac 5) Profunda Femoris 6) Superficial Femoral 7) Popliteal 8) Anterior Tibial 9) Peroneal 10) Posterior Tibial. Bollinger, Breddin & Hess et al. (1981) Semiquantitative assessment of lower limb atherosclerosis from routine angiographic images, Atherosclerosis.
+#+Attr_HTML: :width 26% :align left
+https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Bollinger%20Anatomical%20levels%20of%20Arterial%20Disease.jpg
+
+#+REVEAL: split
+- For updated and more differentiated classification systems see:
+  - Norgren, Hiatt & Dormandy et al. (2007) Inter-Society Consensus for the Management of Peripheral Arterial Disease (TASC II), Journal of Vascular Surgery.
+  - Conte, Bradbury & Kolh et al. (2019) Global vascular guidelines on the management of chronic limb-threatening ischemia, Journal of Vascular Surgery.
+
 ** Intermittent Claudication
 #+ATTR_REVEAL: :frag (appear)
 - Lifestyle Limiting: Patients significantly disabled by claudication, such as
@@ -179,13 +190,13 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 *** Classification II
 
 #+Caption: Part One - Clinical Signs of Ischaemia. Reference: Mills, Conte & Armstrong et al. (2014) The Society for Vascular Surgery Lower Extremity Threatened Limb Classification System: Risk stratification based on Wound, Ischemia, and foot Infection (WIfI), Journal of Vascular Surgery.
-#+ATTR_HTML: :width 60% :align left
+#+ATTR_HTML: :width 70% :align right
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Wifi%20Class%20Part%201.jpg
 
 #+REVEAL: split
 
 #+Caption: Part Two - Clinical Signs of Infection. Reference: Mills, Conte & Armstrong et al. (2014) The Society for Vascular Surgery Lower Extremity Threatened Limb Classification System: Risk stratification based on Wound, Ischemia, and foot Infection (WIfI), Journal of Vascular Surgery.
-#+ATTR_HTML: :width 60% :align left
+#+ATTR_HTML: :width 75% :align right
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Wifi%20Class%20Part2.jpg
 
 #+REVEAL: split
