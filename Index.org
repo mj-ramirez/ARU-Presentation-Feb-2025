@@ -1,10 +1,10 @@
 :REVEAL_PROPERTIES:
 #+OPTIONS: reveal_embed_local_resources:t
 #+OPTIONS: reveal_width:1600 reveal_height:1000
-#+OPTIONS: num:nil toc:nil author:nil timestamp:t
+#+OPTIONS: num:nil toc:nil author:nil email:nil timestamp:nil title:nil
+#+REVEAL_TITLE_SLIDE:
 #+REVEAL_INIT_OPTIONS: margin: 0.001, minScale:0.2, maxScale:2.5, transition:'convex'
 #+REVEAL_THEME: Sky
-#+REVEAL_TITLE_SLIDE:
 #+REVEAL_SLIDE_FOOTER: Broomfield MSE Vascular Unit
 #+REVEAL_EXTRA_CSS: ./local.css
 #+REVEAL_INIT_OPTIONS: slideNumber:true
@@ -20,12 +20,14 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 
 #+Author: Manfred Junemann Ramirez
 #+Email: manfred.ramirez@nhs.net
+#+Title: Introduction to Vascular Surgery for Medical Students
 
 * Introduction to Vascular Surgery for Medical Students
 @@html:<center>@@
-Manfred Junemann Ramirez[fn:vasc:Mid & South Essex Hospital Trust
-Vascular Unit]\\
+Manfred Junemann Ramirez\\
 Consultant Vascular Surgeon\\
+Vascular Unit\\
+Mid & South Essex Hospital Trust\\
 February 2025
 ** Vascular Surgery Learning Objectives
 Vascular surgery is a specialized field focusing on diseases of the vascular system, which includes arteries, veins, and lymphatic circulation.
