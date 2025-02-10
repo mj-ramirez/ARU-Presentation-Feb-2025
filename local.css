@@ -18,3 +18,11 @@
 .make-it-pop {
   filter: drop-shadow(0 0 10px blue);
 }
+/*********************************************
+ * PROGRESS BAR
+ *********************************************/
+.reveal .progress {
+  background: rgba(0, 0, 0, 0.2);
+  color: #5e94be;
+  height: 1%;
+}
