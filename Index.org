@@ -117,7 +117,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 #+ATTR_HTML: :width 100%
 @@html:<center>@@
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/CT%20angiography%20Samples.jpg
-** MAgnetic Resonance Angiography
+** Magnetic Resonance Angiography
 #+ATTR_HTML: :width 100%
 @@html:<center>@@
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/MRA%20samples%20lower%20limb.jpg
