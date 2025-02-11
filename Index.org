@@ -29,14 +29,19 @@ Consultant Vascular Surgeon\\
 Vascular Unit\\
 Mid & South Essex Hospital Trust\\
 February 2025
+** Table of Contents
+   :PROPERTIES:
+   :UNNUMBERED: notoc
+   :END:
+#+REVEAL_TOC: headlines 1
 ** Vascular Surgery Learning Objectives
 Vascular surgery is a specialized field focusing on diseases of the vascular system, which includes arteries, veins, and lymphatic circulation.
 #+ATTR_REVEAL: :frag (fade-left)
- - Anatomy
- - Pathophysiology
- - Clinical Presentation
- - Diagnostic Evaluation
- - Surgical Interventions
+- Anatomy
+- Pathophysiology
+- Clinical Presentation
+- Diagnostic Evaluation
+- Surgical Interventions
 * The Arterial System
 #+ATTR_HTML: :width 44%
 @@html:<center>@@
@@ -47,8 +52,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 - Peripheral Arteries
 - Carotid Arteries
 - Abdominal Aorta
-
-#+REVEAL: split
+** Peripheral Arterial Disease Learning Objectives
 #+ATTR_REVEAL: :frag (grow)
 - Define peripheral arterial disease
 - Describe the risk factors and the pathophysiology of PAD
