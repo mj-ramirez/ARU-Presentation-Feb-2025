@@ -1,8 +1,8 @@
 :REVEAL_PROPERTIES:
 #+OPTIONS: reveal_embed_local_resources:t
 #+OPTIONS: reveal_width:1600 reveal_height:1000
-#+OPTIONS: num:nil toc:nil author:nil email:nil timestamp:nil title:nil
-#+REVEAL_TITLE_SLIDE:
+#+OPTIONS: num:nil toc:nil author:nil email:t timestamp:t title:t
+#+REVEAL_TITLE_SLIDE: %t <br> %e <br> Compiled %T
 #+REVEAL_INIT_OPTIONS: margin: 0.001, minScale:0.2, maxScale:2.5, transition:'convex'
 #+REVEAL_THEME: Sky
 #+REVEAL_SLIDE_FOOTER: Broomfield MSE Vascular Unit
@@ -84,7 +84,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
   - Adult Stem (Progenitor) Cells
 
 #+REVEAL: split
-
+@@html:<br>@@
 #+Caption: Confocal Microscopy Image of Arterial wall Endothelial Cells (Blue and Red) with underlying Smooth Muscle Cell layer (Green)
 #+ATTR_HTML: :width 47% :align right
     https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Endothelium%20Confocal.jpg
@@ -207,6 +207,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 
 #+REVEAL: split
 
+@@html:<br>@@
 #+Caption: Part Three - Risk of limb loss vs estimated benefit from revascularisation. Reference: Mills, Conte & Armstrong et al. (2014) The Society for Vascular Surgery Lower Extremity Threatened Limb Classification System: Risk stratification based on Wound, Ischemia, and foot Infection (WIfI), Journal of Vascular Surgery.
 #+ATTR_HTML: :width 39% :align right
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Wifi%20Class%20Part3.jpg
@@ -214,6 +215,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 *** Investigations: The Handheld Doppler
 @@html:<center><video controls width="1600" height=auto src="https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/HD%20Doppler%20Waveforms_1.mp4"></video>@@
 *** Endovascular approach for CLTI with below knee stenosis
+@@html:<br>@@
 #+Caption: Angioplasty Balloon Types. (A) "Over the wire" system with standard central lumen access (white arrow). (B) Balloon of a monorail system: a wire is exiting the proximal side port of the balloon (black arrow).
 #+ATTR_HTML: :width 55% :align left
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Angioplasty%20below%20knee%20RX%20system%20vs%20OTW.jpg
