@@ -2,7 +2,7 @@
 #+OPTIONS: reveal_embed_local_resources:t
 #+OPTIONS: reveal_width:1600 reveal_height:1000
 #+OPTIONS: num:nil toc:nil author:nil email:t timestamp:t title:t
-#+REVEAL_TITLE_SLIDE: %t <br> %e <br> Compiled %T
+#+REVEAL_TITLE_SLIDE: %t <br> %e <br> Compiled %T <br> <br> The link to a PDF version https://tinyurl.com/5n6vztrz <br> The link to the GitHub page https://mj-ramirez.github.io/ARU-Presentation-Feb-2025/
 #+REVEAL_INIT_OPTIONS: margin: 0.001, minScale:0.2, maxScale:2.5, transition:'convex'
 #+REVEAL_THEME: Sky
 #+REVEAL_SLIDE_FOOTER: Broomfield MSE Vascular Unit
@@ -195,6 +195,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Classification%20Table%20Rutherford.jpg
 *** Classification II
 
+@@html:<br>@@
 #+Caption: Part One - Clinical Signs of Ischaemia. Reference: Mills, Conte & Armstrong et al. (2014) The Society for Vascular Surgery Lower Extremity Threatened Limb Classification System: Risk stratification based on Wound, Ischemia, and foot Infection (WIfI), Journal of Vascular Surgery.
 #+ATTR_HTML: :width 70% :align right
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Wifi%20Class%20Part%201.jpg
