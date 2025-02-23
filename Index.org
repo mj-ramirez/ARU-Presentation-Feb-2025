@@ -196,13 +196,13 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 *** Classification II
 
 @@html:<br>@@
-#+Caption: Part One - Clinical Signs of Ischaemia. Reference: Mills, Conte & Armstrong et al. (2014) The Society for Vascular Surgery Lower Extremity Threatened Limb Classification System: Risk stratification based on Wound, Ischemia, and foot Infection (WIfI), Journal of Vascular Surgery.
+#+Caption: Part One - Clinical Signs of Ischaemia. Reference: Mills, Conte & Armstrong et al. (2014) The Society for Vascular Surgery Lower Extremity Threatened Limb Classification System: Risk stratification based on Wound, Ischemia, and foot Infection (WIfI), Journal of Vascular Surgery. [[https://pubmed.ncbi.nlm.nih.gov/24126108/][PubMed]].
 #+ATTR_HTML: :width 70% :align right
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Wifi%20Class%20Part%201.jpg
 
 #+REVEAL: split
 
-#+Caption: Part Two - Clinical Signs of Infection. Reference: Mills, Conte & Armstrong et al. (2014) The Society for Vascular Surgery Lower Extremity Threatened Limb Classification System: Risk stratification based on Wound, Ischemia, and foot Infection (WIfI), Journal of Vascular Surgery.
+#+Caption: Part Two - Clinical Signs of Infection. Reference: Mills, Conte & Armstrong et al. (2014) The Society for Vascular Surgery Lower Extremity Threatened Limb Classification System: Risk stratification based on Wound, Ischemia, and foot Infection (WIfI), Journal of Vascular Surgery. [[https://pubmed.ncbi.nlm.nih.gov/24126108/][PubMed]].
 #+ATTR_HTML: :width 75% :align right
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Wifi%20Class%20Part2.jpg
 
