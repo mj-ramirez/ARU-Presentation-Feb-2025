@@ -98,7 +98,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Atherosclerosis%20Illustration.jpg
 
 * Arterial Trauma
-#+Caption: The 'Wound man' from an English anatomical treatise; A figure found in a number of manuscripts produced in the 15th and 16th centuries. The artist has detailed the weaponry with loving care and this wound man is remarkable for its concentration of wounds inflicted by violent assault. (The Wellcome Collection https://www.jstor.org/stable/community.24729344)
+#+Caption: The 'Wound man' from an English anatomical treatise; A figure found in a number of manuscripts produced in the 15th and 16th centuries. The artist has detailed the weaponry with loving care and this wound man is remarkable for its concentration of wounds inflicted by violent assault. [[https://wellcomecollection.org/works/tp6fppqz][The Wellcome Collection]].
 #+ATTR_HTML: :width 33% :align left
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Pseudo%20Galen%20Woundman.jpg
 
@@ -174,8 +174,12 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 
 #+REVEAL: split
 - For updated and more differentiated classification systems see:
-  - Norgren, Hiatt & Dormandy et al. (2007) Inter-Society Consensus for the Management of Peripheral Arterial Disease (TASC II), Journal of Vascular Surgery.
-  - Conte, Bradbury & Kolh et al. (2019) Global vascular guidelines on the management of chronic limb-threatening ischemia, Journal of Vascular Surgery.
+  - Norgren, Hiatt & Dormandy et al. (2007) Inter-Society Consensus for the
+    Management of Peripheral Arterial Disease (TASC II), Journal of Vascular
+    Surgery. [[https://pubmed.ncbi.nlm.nih.gov/17223489/][PubMed]].
+  - Conte, Bradbury & Kolh et al. (2019) Global vascular guidelines on the
+    management of chronic limb-threatening ischemia, Journal of Vascular
+    Surgery. [[https://pubmed.ncbi.nlm.nih.gov/31159978/][PubMed]].
 
 ** Intermittent Claudication
 #+ATTR_REVEAL: :frag (appear)
@@ -209,7 +213,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 #+REVEAL: split
 
 @@html:<br>@@
-#+Caption: Part Three - Risk of limb loss vs estimated benefit from revascularisation. Reference: Mills, Conte & Armstrong et al. (2014) The Society for Vascular Surgery Lower Extremity Threatened Limb Classification System: Risk stratification based on Wound, Ischemia, and foot Infection (WIfI), Journal of Vascular Surgery.
+#+Caption: Part Three - Risk of limb loss vs estimated benefit from revascularisation. Reference: Mills, Conte & Armstrong et al. (2014) The Society for Vascular Surgery Lower Extremity Threatened Limb Classification System: Risk stratification based on Wound, Ischemia, and foot Infection (WIfI), Journal of Vascular Surgery. [[https://pubmed.ncbi.nlm.nih.gov/24126108/][PubMed]].
 #+ATTR_HTML: :width 39% :align right
 https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images_ARU_vascular1/Wifi%20Class%20Part3.jpg
 
