@@ -74,7 +74,7 @@ https://filedn.eu/lb297pjeroJ5OLJWy2IKwmV/ARU%20Presentation%20Feb%202025/Images
 - Smooth Muscle Cells
 - Pericytes
 - Fibroblasts
-- Haematopoetic System derived Cells:
+- Haematopoetic System derived Cells
 #+ATTR_REVEAL: :frag (fade-left)
   - Lymphocytes
   - Granulocytes
